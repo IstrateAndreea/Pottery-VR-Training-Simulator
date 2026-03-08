@@ -13,14 +13,17 @@
   - **Pressure-based indentation** (force-dependent indent area + falloff)
   - **brush painting**
     
+  ### Pull & Push
   ![Pull & Push](Images/Image1.jpg)
   
+  ### Thin, Indent & Paint
   ![Thin, Indent & Paint](Images/Image2.jpg)
   
 - **Mass/volume preservation + refinement**
   - Volume is recomputed and preserved across deformation steps, with synchronization between modes.
   - Smoothing refinements (e.g., Laplacian smoothing) are used to reduce artifacts.
-    
+
+  ### Object Creation Capabilities
   ![Object Creation Capabilities](Images/Image3.jpg)
   
 - **Training UI and usability**
@@ -28,13 +31,15 @@
   - Hover-based guidance: placing the palm near controls shows contextual instructions.
   - Tutorial video buttons (e.g., vase/cup/bowl shaping guidance).
   - Button press animation + sound feedback.
-    
+
+  ### Training Mechanism
   ![Training Mechanism](Images/Image4.jpg)
   
 - **Comparison game**
   - A secondary scene designed to collect performance parameters (latency, accuracy-like parameters) for comparing hand-tracking setups (Leap vs Meta).
 
-![Comparison Game Scene Setup](Images/Image5.jpg)
+### Comparison Game Scene Setup
+ ![Comparison Game Scene Setup](Images/Image5.jpg)
 
 ## Technologies Used
 - Unity 6
