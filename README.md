@@ -13,7 +13,7 @@
   - **Pressure-based indentation** (force-dependent indent area + falloff)
   - **brush painting**
     
-  ![Pull & Push](docs/images/Image1.jpg)
+  ![Pull & Push](docs/Images/Image1.jpg)
   ![Thin, Indent & Paint](docs/images/Image2.jpg)
   
 - **Mass/volume preservation + refinement**
