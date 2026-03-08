@@ -42,7 +42,7 @@
   ![Comparison Game Scene Setup](Images/Image5.jpg)
 
 ## Technologies Used
-- Unity 6
+- Unity 6 (Version: **6 (6000.1.x)**.)
 - C#
 - Blender
 - Shader Graph
@@ -53,9 +53,3 @@
 - Dedicated GPU recommended
 
 > The project can be explored in Unity without VR hardware, but the intended experience and hand-tracking features require the devices listed above.
-
-## How to Run
-1. Install **Unity Hub** and Unity **6 (6000.1.x)**.
-2. Clone the repository:
-   ```bash
-   git clone <REPO_URL>
