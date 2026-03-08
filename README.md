@@ -38,8 +38,8 @@
 - **Comparison game**
   - A secondary scene designed to collect performance parameters (latency, accuracy-like parameters) for comparing hand-tracking setups (Leap vs Meta).
 
-### Comparison Game Scene Setup
- ![Comparison Game Scene Setup](Images/Image5.jpg)
+  ### Comparison Game Scene Setup
+  ![Comparison Game Scene Setup](Images/Image5.jpg)
 
 ## Technologies Used
 - Unity 6
