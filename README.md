@@ -42,7 +42,7 @@
   ![Comparison Game Scene Setup](Images/Image5.jpg)
 
 ## Technologies Used
-- Unity 6 (Version: **6 (6000.1.x)**.)
+- Unity 6: Version: **6 (6000.1.x)**.
 - C#
 - Blender
 - Shader Graph
