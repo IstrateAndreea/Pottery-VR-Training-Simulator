@@ -12,16 +12,28 @@
   - **Thinning** deformation for vase-like shapes (stronger inner-zone shaping + smoother transition)
   - **Pressure-based indentation** (force-dependent indent area + falloff)
   - **brush painting**
+    
+  ![Pull & Push](docs/images/Image1.jpg)
+  ![Thin, Indent & Paint](docs/images/Image2.jpg)
+  
 - **Mass/volume preservation + refinement**
   - Volume is recomputed and preserved across deformation steps, with synchronization between modes.
   - Smoothing refinements (e.g., Laplacian smoothing) are used to reduce artifacts.
+    
+  ![Object Creation Capabilities](docs/images/Image3.jpg)
+  
 - **Training UI and usability**
   - Floating menus for starting/resetting/exiting and clay selection.
   - Hover-based guidance: placing the palm near controls shows contextual instructions.
   - Tutorial video buttons (e.g., vase/cup/bowl shaping guidance).
   - Button press animation + sound feedback.
+    
+  ![Training Mechanism](docs/images/Image4.jpg)
+  
 - **Comparison game**
   - A secondary scene designed to collect performance parameters (latency, accuracy-like parameters) for comparing hand-tracking setups (Leap vs Meta).
+
+![Comparison Game Scene Setup](docs/images/Image5.jpg)
 
 ## Technologies Used
 - Unity 6
